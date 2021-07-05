@@ -1,3 +1,3 @@
 ## Documentación ##
-Para el alcance del TP solo es obligatorio completar el subdirectorio de "propuesta".
+La información del módulo a realizar puede encontrarse dentro del directorio "propuesta".
 

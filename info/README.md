@@ -1,3 +1,5 @@
 ## Información complementaria ##
-Para el alcance del TP solo es necesario colocar las hojas de datos más relevantes que se usaron en el diseño de PCB.
-Pero el alumno puede completarlo tanto como desee.
+Se incluyen los datasheet de los siguientes componentes:
+
+* AD8045: Amplificador operacional de alta velocidad
+* AD9837: Generador de ondas programable
