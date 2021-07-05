@@ -1,9 +1,9 @@
 ## Trabajo práctico final de la asignatura DCI ##
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
-* Autor: XXXXCOMPLETARXXXX
-* Título corto del trabajo:  XXXXCOMPLETARXXXX
-* Descripción:  XXXXCOMPLETARXXXX
+* Autor: Martín Mello Teggia
+* Título corto del trabajo:  Réplica pro mini signal generator
+* Descripción:  Réplica del un módulo para Arduino para generación de señales.
 
 
 ## Licencia de este trabajo ##
@@ -33,7 +33,3 @@ Se propone y se pide utilizar la siguiente estructura.
 
 Dependiendo la magnitud del proyecto, tendremos más o menos información en estos directorios. 
 Revisar los README.md en cada directorio para conocer las pautas de cada uno para este TP.
-
-NOTA: El alumno puede y debe borrar de este archivo todo lo que considere necesario, por ejemplo las aclaraciones del docente y esta misma nota.
-
-
