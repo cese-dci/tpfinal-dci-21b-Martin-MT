@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name rf)(type KiCad)(uri ${KIPRJMOD}/Bibliotecas/rf.pretty)(options "")(descr ""))
+  (lib (name generador)(type KiCad)(uri ${KIPRJMOD}/Bibliotecas/generador.pretty)(options "")(descr ""))
 )
