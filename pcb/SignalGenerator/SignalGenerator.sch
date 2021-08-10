@@ -19,7 +19,7 @@ U 1 1 60FE0D51
 P 3950 5300
 F 0 "U3" H 4250 5850 50  0000 L CNN
 F 1 "AD9837" H 4150 5750 50  0000 L CNN
-F 2 "Package_SO:MSOP-10_3x3mm_P0.5mm" H 3950 4700 50  0001 C CNN
+F 2 "generador:LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm" H 3950 4700 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ad9833.pdf" H 3900 5600 50  0001 C CNN
 	1    3950 5300
 	1    0    0    -1  
