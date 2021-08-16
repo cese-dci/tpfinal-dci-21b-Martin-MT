@@ -21,6 +21,10 @@ F 0 "U3" H 4250 5850 50  0000 L CNN
 F 1 "AD9837" H 4150 5750 50  0000 L CNN
 F 2 "generador:LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm" H 3950 4700 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ad9833.pdf" H 3900 5600 50  0001 C CNN
+F 4 "Analog Devices" H 3950 5300 50  0001 C CNN "Manufacturer"
+F 5 "AD9837ACPZ-RL7" H 3950 5300 50  0001 C CNN "Manufacturer Part N."
+F 6 "Mouser" H 3950 5300 50  0001 C CNN "Supplier"
+F 7 "584-AD9837ACPZ-R7" H 3950 5300 50  0001 C CNN "Supplier Part N."
 	1    3950 5300
 	1    0    0    -1  
 $EndComp
@@ -446,6 +450,10 @@ F 0 "U2" H 2150 3042 50  0000 C CNN
 F 1 "MIC5205-3.3YM5" H 2150 2951 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-5" H 2150 3025 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf" H 2150 2700 50  0001 C CNN
+F 4 "Microchip Technology" H 2150 2700 50  0001 C CNN "Manufacturer"
+F 5 "MIC5205-3.3YM5-TR" H 2150 2700 50  0001 C CNN "Manufacturer Part N."
+F 6 "Mouser" H 2150 2700 50  0001 C CNN "Supplier"
+F 7 "998-MIC5205-3.3YM5TR" H 2150 2700 50  0001 C CNN "Supplier Part N."
 	1    2150 2700
 	1    0    0    -1  
 $EndComp
@@ -663,6 +671,10 @@ F 0 "U4" H 8150 5450 50  0000 L CNN
 F 1 "AD8045" H 8000 5150 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 7900 5100 50  0001 L CNN
 F 3 "" H 8150 5450 50  0001 C CNN
+F 4 "Analog Devices" H 8000 5300 50  0001 C CNN "Manufacturer"
+F 5 "AD8045ARDZ" H 8000 5300 50  0001 C CNN "Manufacturer Part N."
+F 6 "Mouser" H 8000 5300 50  0001 C CNN "Supplier"
+F 7 "584-AD8045ARDZ" H 8000 5300 50  0001 C CNN "Supplier Part N."
 	1    8000 5300
 	1    0    0    -1  
 $EndComp
